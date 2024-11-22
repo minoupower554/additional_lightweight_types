@@ -1,0 +1,64 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# PyCharm specific files
+.idea/
+
+# VSCode specific files
+.vscode/
+
+# Operating system specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+Desktop.ini       # Windows
+
+# JetBrains IDEs (IntelliJ, PyCharm, etc.) specific
+.idea/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Coverage reports
+.coverage
+*.cover
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Mypy
+.mypy_cache/
+
+# Pytest
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+
+# Flask
+instance/
+.webassets-cache/
+
+# Environments
+.env
+.env.*
