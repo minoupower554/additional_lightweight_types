@@ -1,5 +1,3 @@
-# Example Package
+# additional lightweight types for python
 
-This is a simple example package. You can use
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+this is a small WIP module designed to add small QoL methods to common types like str and int
