@@ -63,4 +63,4 @@ instance/
 .env
 .env.*
 dist/
-src/additional_lightweight_types.egg-info
+src/additional_lightweight_types.egg-info/
