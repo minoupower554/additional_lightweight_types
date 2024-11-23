@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "additional_lightweight_types_minoupower554"
-version = "0.0.1"
+name = "additional_lightweight_types"
+version = "0.0.3"
 authors = [
   { name="minoupower554" },
 ]
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/minoupower554/additional_lightweight_types"
+Issues = "https://github.com/minoupower554/additional_lightweight_types/issues"
